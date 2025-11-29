@@ -1,7 +1,7 @@
 # 510 Spadina Improvement Model: Baseline Methodology
 
 ## Overview
-This module establishes the baseline performance metrics (**"Current State"**) for the 510 Spadina streetcar. It was developed as a component of the final research paper for **GGR424 (Transportation Geography and Planning)** at the **University of Toronto**.
+This Jupyter Notebook establishes the baseline performance metrics (**"Current State"**) for the 510 Spadina streetcar. I made it as a component of the final research paper for **GGR424 (Transportation Geography and Planning)** at the **University of Toronto**.
 
 The model ingests raw TTC data to empirically derive travel time distributions and headway variability, establishing the control group for intervention simulations based on the foundational control strategies defined by Osuna & Newell (1972).
 
